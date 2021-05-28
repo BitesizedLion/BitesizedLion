@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Obelous.com](https://Obelous.com)
 
-- 🌱 I’m currently (not) learning **Dart**
+- 🌱 I’m currently (not) learning **anything**(cant decide on one thing, lol.)
 
 - 📫 How to reach me **casper@caspers.club**
 
