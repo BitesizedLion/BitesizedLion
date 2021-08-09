@@ -8,7 +8,7 @@
 - 📫 How to reach me **casper@caspers\[.\]club** (or **casper@obelous\[.\]com** for business)
 
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
-<br>
+
 |CURRENCY|ADDRESS|
 |--|--|
 |**BTC**| **bc1q5xrpamlcqmvz4vhydzlul43znjk2vqrc32pe8k** |
