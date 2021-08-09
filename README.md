@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Obelous.com](https://Obelous.com), [Lumulus.com](https://github.com/Lumulus), [KoreaTown.NL](https://koreatown.nl)
 
-- 🌱 I’m currently (not) learning **anything**(cant decide on one thing, lol.)
+- 🌱 I’m currently (not) learning **anything**
 
 - 📫 How to reach me **casper@caspers\[.\]club** (or **casper@obelous\[.\]com** for business)
 
-- ⚡ Fun fact **I love working with servers and system administration**
+- ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitesizedlion&layout=compact&hide=html" alt="bitesizedlion" /></p>
 
