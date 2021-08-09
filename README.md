@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Casper</h1>
 <h3 align="center">An unproductive Javascript developer</h3>
 
-- 🔭 I’m currently working on [Obelous.com](https://Obelous.com), [Lumulus.com](https://github.com/Lumulus)
+- 🔭 I’m currently working on [Obelous.com](https://Obelous.com), [Lumulus.com](https://github.com/Lumulus), [KoreaTown.NL](https://koreatown.nl)
 
 - 🌱 I’m currently (not) learning **anything**(cant decide on one thing, lol.)
 
-- 📫 How to reach me **casper@caspers.club**
+- 📫 How to reach me **casper@caspers\[.\]club** (or **casper@obelous\[.\]com** for business)
 
 - ⚡ Fun fact **I love working with servers and system administration**
 
