@@ -9,14 +9,14 @@
 
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 <br>
-- BTC: bc1q5xrpamlcqmvz4vhydzlul43znjk2vqrc32pe8k
+- BTC: **bc1q5xrpamlcqmvz4vhydzlul43znjk2vqrc32pe8k**
 <br>
-- ETH: 0x6751DBD913a5374d94CF979e9810DfC2f2F04bc0
+- ETH: **0x6751DBD913a5374d94CF979e9810DfC2f2F04bc0**
 <br>
-- BNB: bnb17tgjc5ym8gk4mekvldmrn0hsg6hgazvjecr3cz
+- BNB: **bnb17tgjc5ym8gk4mekvldmrn0hsg6hgazvjecr3cz**
 <br>
-- DOGE: DTSn9ghgyYpwR1j2zgFfwXeEYhHQWiPueW
+- DOGE: **DTSn9ghgyYpwR1j2zgFfwXeEYhHQWiPueW**
 <br>
-- LTC: LKZtYCDsrY17qEsYNsZRGqpXK51hYEeY4k
+- LTC: **LKZtYCDsrY17qEsYNsZRGqpXK51hYEeY4k**
 <br>
-- XLM: GDYLWCAAS7XQRLHS7EOY2WJL65KPX5FC4CMX6AJBNBYYV2N5RXVSNLSE
+- XLM: **GDYLWCAAS7XQRLHS7EOY2WJL65KPX5FC4CMX6AJBNBYYV2N5RXVSNLSE**
