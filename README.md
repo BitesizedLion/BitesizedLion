@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently (not) learning **anything**.
 
-- 📫 How to reach me **casper@caspers\[.\]club** (or **casper@obelous\[.\]com** for business)
+- 📫 How to reach me **casper@145\[.\]se** (or **casper@obelous\[.\]com** for business)
 
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 
