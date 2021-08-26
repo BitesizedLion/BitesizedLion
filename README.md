@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently (not) learning **anything**.
 
-- 📫 How to reach me, Telegram: @trashtruck
+- 📫 How to reach me, Telegram: **@trashtruck** or **+1 479 322 3805**
  
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 
