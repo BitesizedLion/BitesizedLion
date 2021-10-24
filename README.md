@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Casper (aka Ufo, aka CS)</h1>
-<h3 align="center">An unproductive Javascript developer</h3>
+<h1 align="center">Hey 👋, I'm Casper (aka Ufo, or CS)</h1>
+<h3 align="center">An individual based out of Sweden</h3>
 
 - 🔭 I’m currently working on [Obelous.com](https://Obelous.com), [Lumulus.com](https://github.com/Lumulus), [KoreaTown.NL](https://koreatown.nl).
 
 - 🌱 I’m currently (not) learning **anything**.
 
-- 📫 How to reach me, Telegram: **@trashtruck** or **+1 479 322 3805**
+- 📫 How to reach me, Telegram: **@trashtruck** or **+1 479 322 3805** (only Telegram, no calls.)
  
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 
