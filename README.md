@@ -1,4 +1,3 @@
-32
 <h1 align="center">Hey 👋, I'm Casper (aka Ufo)</h1>
 <h3 align="center">An individual based out of Sweden</h3>
 
