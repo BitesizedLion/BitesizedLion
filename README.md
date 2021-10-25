@@ -12,8 +12,8 @@
  
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 
-- [DELL PowerEdge R610](https://status.caspers.club/report/uptime/640d8e625d0b71492e7c9e1082bc9e66/), 2x Xeon [x5660](https://ark.intel.com/content/www/us/en/ark/products/47921/intel-xeon-processor-x5660-12m-cache-2-80-ghz-6-40-gts-intel-qpi.html), 32gb ram, 4x 2.5" 600gb SAS
-- [IBM x3950 x5](https://status.caspers.club/report/uptime/60950de550f6d74ea09529bd46b13d6a/), 4x Xeon [E7-8870](https://www.intel.com/content/www/us/en/products/sku/53580/intel-xeon-processor-e78870-30m-cache-2-40-ghz-6-40-gts-intel-qpi/specifications.html), 192gb ram, 8x 2.5" 600gb SAS
+- ✔ [DELL PowerEdge R610](https://status.caspers.club/report/uptime/640d8e625d0b71492e7c9e1082bc9e66/), 2x Xeon [x5660](https://ark.intel.com/content/www/us/en/ark/products/47921/intel-xeon-processor-x5660-12m-cache-2-80-ghz-6-40-gts-intel-qpi.html), 32gb ram, 4x 2.5" 600gb SAS
+- ✔ [IBM x3950 x5](https://status.caspers.club/report/uptime/60950de550f6d74ea09529bd46b13d6a/), 4x Xeon [E7-8870](https://www.intel.com/content/www/us/en/products/sku/53580/intel-xeon-processor-e78870-30m-cache-2-40-ghz-6-40-gts-intel-qpi/specifications.html), 192gb ram, 8x 2.5" 600gb SAS
 
 |CURRENCY|ADDRESS|
 |--|--|
