@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Casper (aka Ufo)</h1>
 <h3 align="center">An individual based out of Sweden</h3>
 
+ - [x] Online 24/7
 - 🔭 I’m currently working on [Obelous.com](https://Obelous.com), [Lumulus.com](https://github.com/Lumulus), [KoreaTown.NL](https://koreatown.nl), [i17.NL](https://i17.NL).
 
 - 🌱 I’m currently focused on  **Node.JS, Express.JS, MongoDB**.
@@ -11,8 +12,6 @@
 
  - [DELL PowerEdge R610](https://status.caspers.club/report/uptime/640d8e625d0b71492e7c9e1082bc9e66/), 2x Xeon x5660, 32gb ram, 4x 2.5" 600gb SAS
 - [IBM x3950 x5](https://status.caspers.club/report/uptime/60950de550f6d74ea09529bd46b13d6a/), 4x Xeon E7-8870, 192gb ram, 8x 2.5" 600gb SAS
-
- - [x] Online 24/7
 
 |CURRENCY|ADDRESS|
 |--|--|
