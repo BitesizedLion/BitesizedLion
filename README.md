@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently focused on  **Node.JS, Express.JS, MongoDB**.
 
-- 📫 How to reach me, Telegram: **@trashtruck** or **+1 479 322 3805** (only Telegram, no calls.)
+- 📫 How to reach me, Telegram: **@trashtruck**
  
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 
