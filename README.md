@@ -4,7 +4,7 @@
 
  - [x] Online 24/7
 
-- 🔭 I’m currently working on [Obelous.com](https://Obelous.com), [Lumulus.com](https://github.com/Lumulus), [KoreaTown.NL](https://koreatown.nl), [i17.NL](https://i17.NL).
+- 🔭 I’m currently working on [Obelous.com](https://Obelous.com), [Lumulus.com](https://github.com/Lumulus).
 
 - 🌱 I’m currently focused on  **Node.JS, Express.JS, MongoDB**.
 
