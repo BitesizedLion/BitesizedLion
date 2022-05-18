@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Casper (aka Ufo)</h1>
 <h3 align="center">An individual based out of Sweden</h3>
 
- - [x] Online 24/7
+- ✔ Online 24/7 &rarr; [Timezone](https://time.is/Stockholm)
 
 - 🔭 I’m currently working on [Obelous.com](https://Obelous.com), [Lumulus.com](https://github.com/Lumulus).
 
