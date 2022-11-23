@@ -28,7 +28,7 @@
 | SSD 1      | Kingston 480GB                                        |
 | SSD 2      | WDGreen 120GB                                         |
 | M.2 NVME 1 | Corsair Force MP510 960GB                             |
-| M.2 NVME 2 | EMPTY                                                 |
+| M.2 NVME 2 | Samsung 980 1TB                                       |
 | HDD 1      | Seagate Barracuda 1TB                                 |
 | HDD 2      | Seagate Barracuda 3TB                                 |
 | HDD 3      | Seagate Barracuda 4TB                                 |
