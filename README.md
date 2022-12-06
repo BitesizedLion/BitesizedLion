@@ -25,8 +25,6 @@
 |------------|-------------------------------------------------------|
 | GPU        | Geforce GTX 1660 TI                                   |
 | RAM        | 2x 16GB DDR4 3600MHz                                  |
-| SSD 1      | Kingston 480GB                                        |
-| SSD 2      | WDGreen 120GB (Unplugged)                             |
 | M.2 NVME 1 | Corsair Force MP510 960GB                             |
 | M.2 NVME 2 | Samsung 980 1TB                                       |
 | HDD 1      | Seagate Barracuda 1TB (Unplugged)                     |
