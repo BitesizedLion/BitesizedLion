@@ -31,7 +31,7 @@
 | HDD 2      | Seagate Barracuda 3TB                                 |
 | HDD 3      | Seagate Barracuda 4TB                                 |
 | KEYBOARD   | Keychron K8 (Blue Switches)                           |
-| MOUSE      | Logitech G502                                         |
+| MOUSE      | Logitech G Pro X Superlight                           |
 | Monitor 1  | 27" Lenovo G27q-20 165hz QHD                          |
 | Monitor 2  | 24" Asus VZ249HEG1R 75hz FHD                          |
 | Monitor 3  | 24" Asus VZ249HEG1R 75hz FHD                          |
