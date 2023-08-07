@@ -6,7 +6,7 @@
 
 - ✔ Online 24/7 &rarr; [Timezone](https://time.is/Stockholm)
 
-- 🔭 I’m currently *not* working on **KomoTools** and **KomoPrices**
+- 🔭 I’m currently procrastinating
 
 - 🌱 I’m currently focused on  **Node.JS, Express.JS, MongoDB**.
 
