@@ -27,7 +27,6 @@
 | RAM        | 2x 16GB DDR4 3600MHz                                  |
 | M.2 NVME 1 | Corsair Force MP510 960GB                             |
 | M.2 NVME 2 | Samsung 980 1TB                                       |
-| HDD 1      | Seagate Barracuda 1TB (Unplugged)                     |
 | HDD 2      | Seagate Barracuda 4TB                                 |
 | KEYBOARD   | Keychron K8 (Blue Switches)                           |
 | MOUSE      | Logitech G Pro X Superlight                           |
