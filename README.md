@@ -9,8 +9,6 @@
 - 🔭 I’m currently procrastinating
 
 - 🌱 I’m currently focused on  **Node.JS, Express.JS, MongoDB**.
-
-- 📫 How to reach me, Telegram: **@trashtruck**
  
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 
