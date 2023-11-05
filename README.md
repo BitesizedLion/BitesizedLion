@@ -21,7 +21,7 @@
 ## 🖥 Desktop
 | CPU        | Ryzen 5 1600                                          |
 |------------|-------------------------------------------------------|
-| GPU        | Geforce GTX 1660 TI                                   |
+| GPU        | Geforce RTX 3060                                      |
 | RAM        | 2x 16GB DDR4 3600MHz                                  |
 | M.2 NVME 1 | Corsair Force MP510 960GB                             |
 | M.2 NVME 2 | Samsung 980 1TB                                       |
