@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm Casper (aka Ufo)</h1>
+<h1 align="center">Hey 👋, I'm Casper</h1>
 <h3 align="center">An individual based out of Sweden</h3>
 
 # Main
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently procrastinating
 
-- 🌱 I’m currently focused on  **Node.JS, Express.JS, MongoDB**.
+- 🌱 I’m currently focused on nothing.
  
 - ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
 
@@ -19,8 +19,9 @@
 - ✔ [IBM x3950 x5](https://www.ibm.com/common/ssi/cgi-bin/ssialias?infotype=an&subtype=ca&appname=gpateam&supplier=897&letternum=ENUS112-141), 4x Xeon [E7-8870](https://www.intel.com/content/www/us/en/products/sku/53580/intel-xeon-processor-e78870-30m-cache-2-40-ghz-6-40-gts-intel-qpi/specifications.html), 64gb ram, 8x 2.5" 600gb SAS, GTX 660
 
 ## 🖥 Desktop
-| CPU        | Ryzen 5 1600                                          |
+| Component        | Details                                         |
 |------------|-------------------------------------------------------|
+| CPU        | Ryzen 5 1600                                          |
 | GPU        | Geforce RTX 3060                                      |
 | RAM        | 2x 16GB DDR4 3600MHz                                  |
 | M.2 NVME 1 | Corsair Force MP510 960GB                             |
@@ -31,5 +32,3 @@
 | Monitor 1  | 27" Lenovo G27q-20 165hz QHD                          |
 | Monitor 2  | 24" Asus VZ249HEG1R 75hz FHD                          |
 | Monitor 3  | 24" Asus VZ249HEG1R 75hz FHD                          |
-
-## 🧬 [STATUS](https://status.caspers.club/)
