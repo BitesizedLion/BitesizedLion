@@ -16,7 +16,7 @@
 
 ## 🛠 Servers
 - ✔ [DELL PowerEdge R610](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/R610-SpecSheet.pdf), 2x Xeon [x5660](https://ark.intel.com/content/www/us/en/ark/products/47921/intel-xeon-processor-x5660-12m-cache-2-80-ghz-6-40-gts-intel-qpi.html), 96gb ram, 6x 2.5" 600gb SAS
-- ✔ [IBM x3950 x5](https://www.ibm.com/common/ssi/cgi-bin/ssialias?infotype=an&subtype=ca&appname=gpateam&supplier=897&letternum=ENUS112-141), 4x Xeon [E7-8870](https://www.intel.com/content/www/us/en/products/sku/53580/intel-xeon-processor-e78870-30m-cache-2-40-ghz-6-40-gts-intel-qpi/specifications.html), 64gb ram, 8x 2.5" 600gb SAS, GTX 660
+- ✔ [IBM x3950 x5](), 4x Xeon [E7-8870](https://www.intel.com/content/www/us/en/products/sku/53580/intel-xeon-processor-e78870-30m-cache-2-40-ghz-6-40-gts-intel-qpi/specifications.html), 64gb ram, 8x 2.5" 600gb SAS, GTX 660
 
 ## 🖥 Desktop
 | Component        | Details                                         |
