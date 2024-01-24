@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently focused on nothing.
  
-- ⚡ Fun fact **I love working with servers, system administration and breaking (into) webapps**
+- ⚡ Fun fact **I love working with servers and doing various things**
 
 # Hardware
 
