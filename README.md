@@ -7,8 +7,6 @@
 - ✔ Online 24/7 &rarr; [Timezone](https://time.is/Stockholm)
 
 - 🔭 I’m currently procrastinating
-
-- 🌱 I’m currently focused on nothing.
  
 - ⚡ Fun fact **I love working with servers and doing various things**
 
