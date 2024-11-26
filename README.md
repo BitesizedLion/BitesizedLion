@@ -19,7 +19,7 @@
 ## 🖥 Desktop
 | Component        | Details                                         |
 |------------|-------------------------------------------------------|
-| CPU        | Ryzen 5 1600                                          |
+| CPU        | Ryzen 7 5700X                                         |
 | GPU        | Geforce RTX 3060                                      |
 | RAM        | 2x 16GB DDR4 3600MHz                                  |
 | M.2 NVME 1 | Corsair Force MP510 960GB                             |
