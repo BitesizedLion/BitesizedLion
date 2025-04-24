@@ -26,7 +26,7 @@
 | M.2 NVME 2 | Samsung 980 1TB                                       |
 | HDD 2      | Seagate Barracuda 4TB                                 |
 | KEYBOARD   | Keychron K8 (Blue Switches)                           |
-| MOUSE      | Logitech G Pro X Superlight                           |
+| MOUSE      | Incott G23                                            |
 | Monitor 1  | 27" Lenovo G27q-20 165hz QHD                          |
 | Monitor 2  | 24" Asus VZ249HEG1R 75hz FHD                          |
 | Monitor 3  | 24" Asus VZ249HEG1R 75hz FHD                          |
